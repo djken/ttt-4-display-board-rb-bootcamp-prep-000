@@ -4,4 +4,3 @@ board = ["X", "X", "X", " ", " ", " ", " ", " ", " "]
 def display_board(name)
   puts name
 end
-display_board(board)
