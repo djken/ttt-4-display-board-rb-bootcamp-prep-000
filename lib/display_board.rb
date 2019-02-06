@@ -2,6 +2,6 @@
 # out the current state.
 board = ["X", "X", "X", " ", " ", " ", " ", " ", " "]
 def display_board(name)
-  print name
+  puts name
 end
 display_board(board)
